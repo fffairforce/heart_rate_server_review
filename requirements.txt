@@ -1,0 +1,10 @@
+pytest
+flask
+pymodm
+numpy
+sphinx
+sendgrid==5.6.0
+pytest-pep8
+ipython
+requests
+dnspython
